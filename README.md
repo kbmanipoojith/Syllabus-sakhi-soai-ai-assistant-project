@@ -3,13 +3,19 @@
 A minimal **Streamlit** app that embeds the live Syllabus Sakhi AI (hosted on Dify).
 
 - Live Dify URL: https://udify.app/chat/EbRtbiXuqvvp6EyI
+  
+- Live streamlit URL: https://syllabus-sakhi-ai-assistant.streamlit.app/
 
 ## Local run
 
 ```bash
+python -m venv venv
+.\venv\Scripts\Activate.ps1
 pip install -r requirements.txt
-streamlit run streamlit_app.py
+cd to current folder
+streamlit run app.py
 # Open http://localhost:8501
+
 ```
 
 ## Deploy to Streamlit Community Cloud
