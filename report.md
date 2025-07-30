@@ -103,7 +103,7 @@ The prompt defines:
 - **feedback Form:** https://forms.gle/7EmcNy1c6u3GMLww7  
 
 ### **Feedback (Telugu Users):**  
-- **user's feedback sheet:**https://docs.google.com/spreadsheets/d/18vCLb3E46mixUhAlQ8CYgK57xztEUowVGRi5pS4P6II/edit?usp=sharing
+- **user's feedback sheet:** https://docs.google.com/spreadsheets/d/18vCLb3E46mixUhAlQ8CYgK57xztEUowVGRi5pS4P6II/edit?usp=sharing
 
 ### **Key Findings:**  
 1. **Strengths:** Users loved Telugu support and clear syllabus structure.  
@@ -153,7 +153,10 @@ The prompt defines:
 - **Working App Link:** [Syllabus Sakhi AI – Live Demo](https://udify.app/chat/EbRtbiXuqvvp6EyI)  
 - **GitHub Repository:** *(To be added)*  
 - **User Feedback Excel:** *(To be attached)*  
-- **Screenshots:** *(Insert screenshots taken during testing here)*  
+- **Screenshots:** 
+
+  ![Screenshot 1](Screenshots\1.png)
+  ![Screenshot 2](Screenshots\2.png)
 
 ---
 
